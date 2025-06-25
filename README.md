@@ -52,21 +52,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=its-mahadi&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
     <td align="center">
-     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=its-mahadi&show_icons=true&locale=en" alt="its-mahadi" /></p>
-    </td>
-  </tr>
-  </br>
-      <td align="center">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-mahadi&show_icons=true&locale=en&layout=compact" alt="its-mahadi" /></p>
     </td>
+  </tr>
 </table>
-
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=its-mahadi&show_icons=true&locale=en" alt="its-mahadi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-mahadi&" alt="its-mahadi" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-mahadi&show_icons=true&locale=en&layout=compact" alt="its-mahadi" /></p> 
+ 
 
 
 
