@@ -54,10 +54,11 @@
     <td align="center">
      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=its-mahadi&show_icons=true&locale=en" alt="its-mahadi" /></p>
     </td>
-    <td align="right">
+  </tr>
+  <br/>
+   <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-mahadi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-  </tr>
 </table>
 
 
