@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadi Hasan</h1>
+<img src="https://i.ibb.co/RkfPfjr4/github-banner.png">
 <h3 align="center">Turning ideas into code and aspiring to become a skilled software engineer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
