@@ -56,9 +56,9 @@
     </td>
   </tr>
   <br/>
-   <div align="center>
+   <td align="center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-mahadi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
+    </td>
 </table>
 
 
