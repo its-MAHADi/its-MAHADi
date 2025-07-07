@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript"/>
-  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React"/>
-  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router"/>
-  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase"/>
+  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript"/>
+  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React"/>
+  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router"/>
+  <img height="50" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase"/>
 </p>
 
 <p align="center">
