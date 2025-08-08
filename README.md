@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **🌱 back-end**
+- 🌱 I’m currently learning **back-end**
 
 - 👯 I’m looking to collaborate on **Exciting MERN stack projects that push the boundaries of web development.**
 
