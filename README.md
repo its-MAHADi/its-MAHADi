@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advancing my skills in optimizing frontend performance and exploring advanced React techniques.**
 
-- 👨‍💻 All of my projects are available at [Mahadi-Portfolio](https://personal-portfolio-phi-beige-gcygdw3k8l.vercel.app/)
+- 👨‍💻 All of my projects are available at [Mahadi-Portfolio](https://md-mahadi-hasan.netlify.app/)
 
 - 💬 Ask me about **Anything related to MERN stack development and best practices.**
 
